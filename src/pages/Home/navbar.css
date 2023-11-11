@@ -1,0 +1,16 @@
+.navbar{
+    background-color: #cfd4d3;
+    padding: 20px;
+    padding-left: 30vw;
+    font-size: 20px;
+}
+.nav-item{
+    padding-left: 50px ;
+    padding-right: 50px;
+}
+.logo{
+    height: 40px;
+}
+.dropdown-item{
+    background-color: #cfd4d3;
+}
